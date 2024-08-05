@@ -1,0 +1,101 @@
+\documentclass[aps,prb,twocolumn,groupedaddress,nofootinbib,floatfix]{revtex4}
+%
+\usepackage{graphicx} 
+\usepackage{graphics}
+\usepackage{epsfig}
+%\setlength{\skip\footins}{0.3in}
+\begin{document}
+%
+\title{Put Your Title Here}
+
+%
+\author{Your professional NAME goes here}
+%
+% DON'T CHANGE ANYTHING IN THE NEXT FEW LINES OR DELETE BLANK LINES
+%
+\affiliation{This work was submitted as part of a course requirement for completion of the BS degree in the Physics Program at RIT and, in its current form, does not appear in any publication external to RIT.}
+%
+% PUT YOUR ADVISOR NAME BELOW.  DON'T DELETE ANY LINES
+%
+\altaffiliation [Rochester Institute of Technology, School of Physics and Astronomy, Faculty Advisor: ]{ADVISOR NAME HERE}
+
+\date{\today}
+
+\begin{abstract} \noindent Place your abstract here.  It should describe your project, what you propose to do, and any specific questions you hope to address.   Your abstract should stand alone, and make sense without the rest of the paper.   Thus you should not refer to your figures or tables.   Abstracts are frequently published without the rest of the paper.   Your Capstone II final paper will have the abstract and author info, for example, available on the COS webpage - but not the rest of the paper.
+\end{abstract}
+
+\maketitle
+
+\section*{Introduction}
+It is recommended that you start with an Introduction or Background
+section.  When you cite things \cite{Foner1} put the citations in a separate file and
+use bibtex.   It is good to have both historical and modern references. \cite{Tickle,Basso}
+Sometimes you need to cite things other than articles. \cite{UnitsTable}
+%
+\section*{Other Sections}
+You should have several sections in here; this is the body of your report.   Do not number the sections.
+Use of the asterisk in the section heading eliminates numbering.   You probably won't need subsections.
+%
+\section*{Notes on Figures}
+It is also possible/likely that you will have figures in this or other
+sections.  \textbf{Figures must be your own or you
+must have permission from the journal/author).}  Because provenance
+cannot be determined from Wikipedia or other popular websites, use of
+figures from these sites is prohibited.   
+
+It is crucially important that figures have large enough type font that you can read the axis labels and any insets.   Test this before preparing many figures.   It is surprisingly difficult to make the type big enough to still be readable once reduced to two-column format size.
+
+Every figure must have a figure number and a caption.
+
+I'm repeating things now to make this longer so as to test formatting.  You, on the other hand, are not allowed to repeat things just to make your paper longer!!
+
+It is also possible/likely that you will have figures in this or other
+sections.  \textbf{Figures must be your own or you
+must have permission from the journal/author).}  Because provenance
+cannot be determined from Wikipedia or other popular websites, use of
+figures from these sites is prohibited.   
+
+\section*{Gnuplot Figures}
+If you are using gnuplot to generate plots of data, you may find it useful to generate \textit{eps} output from gnuplot.   If you do so, you may need to use \LaTeX commands, which generate a \textit{DVI} file, rather than PDF\LaTeX commands that go straight to a \textit{PDF} file format.   Gnuplot makes very clean \textit{eps} files which are small in size and superb resolution.   However, these do not generally play nicely with PDF\LaTeX.    Once you have a \textit{DVI} file there's (see the tools menu for whatever \LaTeX front end GUI you're using) a \textit{DVI} $\rightarrow$ \textit{PDF} converter.
+\section*{Budget}
+If you anticipate there will be costs associated with this project, give an approximate budget here.  Projects should not exceed \$500 unless there are extenuating circumstances (that have been okay'ed by the committee).
+
+Your mentor should help you with estimated costs for doing your project.
+
+\section*{Timeline}
+
+Capstone Prep and Capstone I papers {\bf MUST} have a Timeline section with an explicit
+plan for the project.  The following example is just a suggestion.
+
+\vspace{0.2in}
+{\bf Capstone I}
+\begin{itemize}\itemsep1pt \parskip0pt 
+\item Write preliminary code (2 weeks)
+\item Debug computer code (3 weeks)
+\item Take data with experiment (4 weeks)
+\item Write new computer program (4 weeks)
+\item Analyze preliminary data, write paper, talk (2 weeks)
+\end{itemize}
+{\bf Capstone II} 
+\begin{itemize}\itemsep1pt \parskip0pt
+\item Begin migration to new structure for all computer code (3 weeks)
+\item Rebuild experiment to do what it was supposed to do all along (4 weeks)
+\item Rewrite new computer program (3 weeks)
+\item Analyze data (3 weeks)
+\item Write paper, talk (2 weeks)
+\end{itemize}
+
+\begin{acknowledgments}
+Thank many people.
+\end{acknowledgments}
+%
+%change the name of the bibliography file to your own name
+%make sure you have h-physrev5.bst file in the same directory as your tex file and bib file
+%then compile using Latex-Bibtex-Latex-Latex sequence!
+%
+
+\bibliographystyle{h-physrev5.bst}
+% now the actual bibliography file.   Note that it does not need the .bib extension in this line!
+\bibliography{YournameBibliographyFile}
+\end{document}
+
