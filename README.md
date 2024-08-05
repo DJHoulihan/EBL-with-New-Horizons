@@ -24,7 +24,7 @@ Multi-Spectral Visible Imaging Camera (MVIC), could produce a good measurement o
 - SAOImage ds9: https://sites.google.com/cfa.harvard.edu/saoimageds9 
 - Astrometry.net: https://nova.astrometry.net/upload
 
-  ## Highlights:
+  ## Figures:
 <img src="https://github.com/user-attachments/assets/796075cb-1d61-44de-b658-a09b19299991" alt="2DGaussian" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/c549bc2e-152b-4906-b2a3-0da74f65b282" alt="ePSF" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/57a0eec3-eb84-4676-871f-ce27584c2149" alt="KLbestfit" width="600" height="400">
