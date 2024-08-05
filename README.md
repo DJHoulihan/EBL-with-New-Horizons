@@ -28,7 +28,8 @@ Multi-Spectral Visible Imaging Camera (MVIC), could produce a good measurement o
 <img src="https://github.com/user-attachments/assets/796075cb-1d61-44de-b658-a09b19299991" alt="2DGaussian" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/c549bc2e-152b-4906-b2a3-0da74f65b282" alt="ePSF" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/57a0eec3-eb84-4676-871f-ce27584c2149" alt="KLbestfit" width="600" height="400">
-<img src="https://github.com/user-attachments/assets/ced79e90-4cf2-4597-8632-17544da02719" alt="residuals" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/f58d53e3-d7ea-4d16-94ff-60418f14b553" alt="Contour-1" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/51e0c2b9-e2b7-480d-9084-5f059f2a9b1f" alt="Vega_test-1" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/e0fd913d-5375-4a19-921c-cca2e03f6be7" alt="Residuals" width="600" height="400">
+
 
