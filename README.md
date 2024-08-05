@@ -29,4 +29,5 @@ Multi-Spectral Visible Imaging Camera (MVIC), could produce a good measurement o
 <img src="https://github.com/user-attachments/assets/c549bc2e-152b-4906-b2a3-0da74f65b282" alt="ePSF" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/57a0eec3-eb84-4676-871f-ce27584c2149" alt="KLbestfit" width="600" height="400">
 <img src="https://github.com/user-attachments/assets/ced79e90-4cf2-4597-8632-17544da02719" alt="residuals" width="600" height="400">
+[FWHMstamps.pdf](https://github.com/user-attachments/files/16502090/FWHMstamps.pdf)
 
