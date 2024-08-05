@@ -1,7 +1,7 @@
 # EBL with New Horizons
 
 This repository contains all the readings, code, and data I used in my Senior Capstone project at Rochester Institute of Technology. In this project I performed PSF photometry on the star Vega using images taken aboard NASA's New Horizons Spacecraft. 
-The goal was to assess the spacecraft's ability to be used as to measure the Extragalactic Background Light (EBL) from an outer solar system vantage point. The abstract for my Capstone project is shown below. I have also attached my final Capstone paper as well as a document outlining the PSF photometry procedure.
+The goal was to assess the spacecraft's ability to be used as to measure the Extragalactic Background Light (EBL) from an outer solar system vantage point. The abstract for my Capstone project is shown below. I have also attached my final Capstone paper as well as a document outlining the PSF photometry procedure. I also attached a letter written to the SNB administration team after finding a bug in the quaternion data for New Horizons. The problem is outlined in the letter as well as the Capstone 2 paper.
 
 ## A Measurement of the Extragalactic Background Light
 
