@@ -1,0 +1,13 @@
+lsb_0397097519_0x53c_sci.fit 1.521 LEISA Slow Scan Test of the Star Vega 397097519.0
+lsb_0408542761_0x53c_sci.fit 1.521 LEISA Rotation Scan 408542761.0
+lsb_0408598081_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408598081.0
+lsb_0408605304_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408605304.0
+lsb_0408606595_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408606595.0
+lsb_0408609177_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408609177.0
+lsb_0408610468_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408610468.0
+lsb_0408611759_0x54b_sci.fit 1.521 LEISA Composition and System Scan 408611759.0
+lsb_0408613050_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408613050.0
+lsb_0408614341_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408614341.0
+lsb_0408619338_0x53c_sci.fit 1.521 LEISA Composition and System Scan 408619338.0
+lsb_0408621929_0x53c_sci.fit 1.521 LEISA Scan, LORRI Rider, CA01 408621929.0
+lsb_0408624118_0x53c_sci.fit 1.52 LEISA Scan, LORRI Rider, CA04 408624118.0
