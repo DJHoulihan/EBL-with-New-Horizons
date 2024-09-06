@@ -12,7 +12,7 @@ would imply the presence of sources of diuse extragalactic emission that are cu
 for, which is predicted to include light from the rst galaxies in the universe. We have studied
 archival data from the Linear Etalon Imaging Spectral Array (LEISA) aboard the New Horizons
 spacecraft to determine whether it could be used to measure the EBL at wavelengths between 1.2
-to 2.5 $\mu$m. We have empirically determined LEISA's sensitivity to diffuse brightness to be $\delta\lambda$$I_\lambda$ =
+to 2.5 $\mu$m. We have empirically determined LEISA's sensitivity to diffuse brightness to be $\delta\lambda I_\lambda$ =
 2 x 10$^6$ nW/m/sr in 1.5 second exposures, which essentially precludes the possibility of reaching
 EBL signals at the level of 10 nW/m/sr. These studies have allowed us to conclude that LEISA is
 not even capable of generating useful upper limits on the amplitude of the EBL at near-infrared
